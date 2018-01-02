@@ -1,6 +1,14 @@
 # marketdatainterface
 记录各交易所行情接口相关信息
 
+
+# 中国资本市场标准网
+http://www.csisc.cn/zbscbzw/index.shtml
+
+# 证标委委员名单
+http://www.csisc.cn/zbscbzw/wymd/zbw_wyjs.shtml
+
+
 Welcome to the marketdatainterface wiki!
 
 # 上海证券交易所
