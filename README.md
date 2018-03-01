@@ -57,3 +57,10 @@ http://www.dce.com.cn/dalianshangpin/yw/fw/ywzy/jsfwzy/index.html
 官网地址：http://www.neeq.com.cn/
 
 客户端：http://www.sscc.com/ > 下载专区 > 全国中小企业股份转让系统
+
+#  中证指数公司
+* 官网地址：http://www.csindex.com.cn/
+* 文档地址：http://www.csindex.com.cn/zh-CN/downloads/other?show=2
+
+* http://www.sfit.com.cn/5_1_DocumentDown.htm地址
+* http://www.sfit.com.cn/5_1_DocumentDown.htm
