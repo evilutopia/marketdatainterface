@@ -18,7 +18,7 @@ http://pubs.opengroup.org/onlinepubs/9699919799/
 中泰API
 ------------------
 https://xtp.zts.com.cn/docs/quote/index.html
-
+XTPMarketDataStruct  各种类型的字段都集成在一个结构中
 
 附录
 -------------------
