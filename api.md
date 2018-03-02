@@ -1,4 +1,4 @@
-API借口对比
+API接口对比
 ==================
 
 The Open Group Base Specifications
