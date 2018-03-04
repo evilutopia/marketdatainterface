@@ -4,6 +4,10 @@ API接口对比
 ------------------
 * 交易所 -> 市场/平台
 
+API与SPI
+-------------------
+https://www.jianshu.com/p/7e85b8ed00e2
+
 
 
 The Open Group Base Specifications
