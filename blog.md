@@ -2,15 +2,20 @@
 常用blog
 ==========================================================
 
-金融监管
+中国银行业监督管理委员会
 ----------------------------------------------------------
 
 + 金融监管研究[http://www.cbrc.gov.cn/chinese/home/docViewPage/109910.html]
 
+中国证券业协会
+----------------------------------------------------------
+http://www.sac.net.cn/yjcbw/zqhyfzbg/fzbg2017/
 
 区域股权市场
 ----------------------------------------------------------
-+ 2018年第4期[http://www.cbrc.gov.cn/chinese/home/docView/7FCAA6A3954848CA94FB0EEEDB8047CD.html]
++ 金融监管研究 2018年第4期[http://www.cbrc.gov.cn/chinese/home/docView/7FCAA6A3954848CA94FB0EEEDB8047CD.html]
++ 证券行业发展报告 2018 专题报告之七[http://www.sac.net.cn/yjcbw/zqhyfzbg/fzbg2018/]
+
 
 IT
 ----------------------------------------------------------
