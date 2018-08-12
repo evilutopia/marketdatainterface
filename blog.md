@@ -14,6 +14,7 @@ http://www.sac.net.cn/yjcbw/zqhyfzbg/fzbg2017/
 区域股权市场
 ----------------------------------------------------------
 + 金融监管研究 2018年第4期[http://www.cbrc.gov.cn/chinese/home/docView/7FCAA6A3954848CA94FB0EEEDB8047CD.html]
++ 证券行业发展报告 2017 专题报告之二[http://www.sac.net.cn/yjcbw/zqhyfzbg/fzbg2017/201707/t20170726_132358.html]
 + 证券行业发展报告 2018 专题报告之七[http://www.sac.net.cn/yjcbw/zqhyfzbg/fzbg2018/]
 
 
