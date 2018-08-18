@@ -1,17 +1,18 @@
 
-常用blog
+区域股权市场
 ==========================================================
 
-中国银行业监督管理委员会
+机构及协会
 ----------------------------------------------------------
+* 中国证券监督管理委员会
+  + [官方网站](http://www.csrc.gov.cn)
+* 中国证券业协会
+  + [官方网站](http://www.sac.net.cn/yjcbw/zqhyfzbg/fzbg2017/)
+* 中国银行业监督管理委员会
+  + [官方网站](http://www.cbrc.gov.cn/)
+  + 金融监管研究[http://www.cbrc.gov.cn/chinese/home/docViewPage/109910.html]
 
-+ 金融监管研究[http://www.cbrc.gov.cn/chinese/home/docViewPage/109910.html]
-
-中国证券业协会
-----------------------------------------------------------
-http://www.sac.net.cn/yjcbw/zqhyfzbg/fzbg2017/
-
-区域股权市场
+区域股权市场研究资料
 ----------------------------------------------------------
 + 金融监管研究 2018年第4期[http://www.cbrc.gov.cn/chinese/home/docView/7FCAA6A3954848CA94FB0EEEDB8047CD.html]
 + 证券行业发展报告 2017 专题报告之二[http://www.sac.net.cn/yjcbw/zqhyfzbg/fzbg2017/201707/t20170726_132358.html]
