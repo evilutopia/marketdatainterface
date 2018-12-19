@@ -64,3 +64,9 @@ http://www.dce.com.cn/dalianshangpin/yw/fw/ywzy/jsfwzy/index.html
 
 * http://www.sfit.com.cn/5_1_DocumentDown.htm地址
 * http://www.sfit.com.cn/5_1_DocumentDown.htm
+
+
+# 巴基斯坦交易所
+
+* https://www.psx.com.pk/ 
+* 行情数据接口 ->PRODUCTS & SERVICES -> data vendor
