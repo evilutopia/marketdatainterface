@@ -9,8 +9,15 @@ http://www.csisc.cn/zbscbzw/index.shtml
 # 证标委委员名单
 http://www.csisc.cn/zbscbzw/wymd/zbw_wyjs.shtml
 
+# 深圳证券交易所
 
+官网地址：http://www.szse.cn/
 
+数据接口：
+
+* 服务->交易服务->交易技术支持专区->技术文档  （频道分类）
+
+* http://www.szse.cn/marketServices/technicalservice/guide/P020180328467271196798.pdf
 
 # 上海证券交易所
 
