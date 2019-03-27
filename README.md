@@ -19,6 +19,10 @@ http://www.csisc.cn/zbscbzw/wymd/zbw_wyjs.shtml
 
 * http://www.szse.cn/marketServices/technicalservice/guide/P020180328467271196798.pdf
 
+# 深交所信息公司
+
+http://www.cninfo.com.cn/fwsq/hq/qsmd-2.htm
+
 # 上海证券交易所
 
 官网地址：http://www.sse.com.cn
