@@ -85,3 +85,9 @@ http://www.dce.com.cn/dalianshangpin/yw/fw/ywzy/jsfwzy/index.html
 
 * https://www.psx.com.pk/ 
 * 行情数据接口 ->PRODUCTS & SERVICES -> data vending
+
+
+# 交易系统IT服务
+* Nasdaq [https://business.nasdaq.com/financial-framework/index.html]
+* [德意志交易所 T7]https://www.xetra.com/xetra-en/technology/t7
+
