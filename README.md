@@ -89,5 +89,8 @@ http://www.dce.com.cn/dalianshangpin/yw/fw/ywzy/jsfwzy/index.html
 
 # 交易系统IT服务
 * Nasdaq [https://business.nasdaq.com/financial-framework/index.html]
+* Nasdq Inet [http://nordic.nasdaqomxtrader.com/inet/inet_technology]
+
+
 * [德意志交易所 T7]https://www.xetra.com/xetra-en/technology/t7
 
