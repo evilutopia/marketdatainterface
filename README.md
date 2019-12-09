@@ -33,6 +33,10 @@ http://www.cninfo.com.cn/fwsq/hq/qsmd-2.htm
 
 * http://www.sse.com.cn/services/tradingservice/tradingtech/technical/data/
 
+《交易所前沿》期刊
+
+* https://istock.ssetech.com.cn/wiki/doku.php?id=service:techmag:start
+
 # 上证所信息网络有限公司
 
 官网地址：http://www.sseinfo.com
