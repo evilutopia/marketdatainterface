@@ -99,3 +99,8 @@ http://www.dce.com.cn/dalianshangpin/yw/fw/ywzy/jsfwzy/index.html
 
 * [德意志交易所 T7]https://www.xetra.com/xetra-en/technology/t7
 
+# Terms
+
+* IT terms [https://www.techopedia.com/definition/30458/it-operations-management]
+* Finance terms [https://www.investopedia.com/terms/f/finance.asp]
+
