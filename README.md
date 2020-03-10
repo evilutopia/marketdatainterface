@@ -88,7 +88,7 @@ http://www.dce.com.cn/dalianshangpin/yw/fw/ywzy/jsfwzy/index.html
 # 巴基斯坦交易所
 
 * https://www.psx.com.pk/ 
-* 行情数据接口 ->PRODUCTS & SERVICES -> data vending
+* 行情数据接口及行情服务 ->PRODUCTS & SERVICES -> Data Services & Vending[https://www.psx.com.pk/psx/product-and-services/services#data-service]
 
 
 # 交易系统IT服务
