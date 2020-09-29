@@ -103,6 +103,8 @@ http://www.dce.com.cn/dalianshangpin/yw/fw/ywzy/jsfwzy/index.html
 * UDP/IP Addresses - Nasdaq Data Feeds [https://www.nasdaqtrader.com/Trader.aspx?id=FeedIPS]
 * Moldudp64[https://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/moldudp64.pdf]
 
+* The Nasdaq Stock Market (Nasdaq)[https://www.nasdaqtrader.com/Trader.aspx?id=TradingUSEquities]
+* Specification[https://www.nasdaqtrader.com/Trader.aspx?id=DPSpecs]
 
 * [德意志交易所 T7]https://www.xetra.com/xetra-en/technology/t7
 
