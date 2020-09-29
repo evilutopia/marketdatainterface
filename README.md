@@ -97,6 +97,8 @@ http://www.dce.com.cn/dalianshangpin/yw/fw/ywzy/jsfwzy/index.html
 * Nasdq Inet [http://nordic.nasdaqomxtrader.com/inet/inet_technology]
 * Nasdq trading system [https://www.nasdaq.com/solutions/trading-and-matching-technology]
 
+* Interface [https://www.nasdaqtrader.com/Trader.aspx?id=TradingSpecs]
+
 
 * [德意志交易所 T7]https://www.xetra.com/xetra-en/technology/t7
 
