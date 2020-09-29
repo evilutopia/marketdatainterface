@@ -104,7 +104,8 @@ http://www.dce.com.cn/dalianshangpin/yw/fw/ywzy/jsfwzy/index.html
 * Moldudp64[https://www.nasdaqtrader.com/content/technicalsupport/specifications/dataproducts/moldudp64.pdf]
 
 * The Nasdaq Stock Market (Nasdaq)[https://www.nasdaqtrader.com/Trader.aspx?id=TradingUSEquities]
-* Specification[https://www.nasdaqtrader.com/Trader.aspx?id=DPSpecs]
+* Nasdaq 市场接口规范[https://www.nasdaqtrader.com/Trader.aspx?id=DPSpecs]
+  纳斯达克市场行情数据协议支持SoupBinTcp， CompressedSoupBinTcp, MoldUdp三种协议
 
 * [德意志交易所 T7]https://www.xetra.com/xetra-en/technology/t7
 
