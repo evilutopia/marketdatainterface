@@ -3,6 +3,12 @@
 
 Welcome to the marketdatainterface wiki!
 
+# 国家标准网
+http://openstd.samr.gov.cn/bzgk/gb/index
+
+GB/T 20001 标准编写规则
+GB/T1.1 2020 标准化工作导则
+
 # 中国资本市场标准网
 http://www.csisc.cn/zbscbzw/index.shtml
 
