@@ -9,6 +9,12 @@ http://openstd.samr.gov.cn/bzgk/gb/index
 GB/T 20001 标准编写规则
 GB/T1.1 2020 标准化工作导则
 
+# 密码行业标准化技术委员会
+http://www.gmbz.org.cn/main/bzlb.html
+
+http://gmssl.org/docs/quickstart.html
+
+
 # 中国资本市场标准网
 http://www.csisc.cn/zbscbzw/index.shtml
 
