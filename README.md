@@ -56,7 +56,7 @@ http://www.cninfo.com.cn/fwsq/hq/qsmd-2.htm
 数据接口：
 
 * 首页->产品服务-> 行情产品-> 选择一个产品（如Level2）； 在页面上查找“业务申请”，点击“ 业务文档"
-
+* https://www.sseinfo.com/services/assortment/document/
 * https://ic.sseinfo.com/businessDoc
 
 # 上海期货信息技术有限公司
