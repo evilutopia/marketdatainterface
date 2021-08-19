@@ -96,6 +96,7 @@ http://www.dce.com.cn/dalianshangpin/yw/fw/ywzy/jsfwzy/index.html
 * 服务->市场数据服务->基础设施
 * 文档地址：https://www.hkex.com.hk/Services/Trading/Securities/Infrastructure/Overview?sc_lang=zh-HK
 * Transmission Specification：https://www.hkex.com.hk/Services/Market-Data-Services/Real-Time-Data-Services/Data-Licensing/Market-Data-End-User-Licence/Licence-Agreement-,-a-,-Guiding-Notes/Transmission-Specification?sc_lang=en
+* data license： https://www.hkex.com.hk/Services/Market-Data-Services/Real-Time-Data-Services/Data-Licensing?sc_lang=en
 
 
 # 巴基斯坦交易所
