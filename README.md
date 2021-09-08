@@ -45,6 +45,8 @@ http://www.cninfo.com.cn/fwsq/hq/qsmd-2.htm
 
 * http://www.sse.com.cn/services/tradingservice/tradingtech/technical/data/
 
+* 服务->交易服务->交易技术支持专区
+
 《交易所前沿》期刊
 
 * https://istock.ssetech.com.cn/wiki/doku.php?id=service:techmag:start
