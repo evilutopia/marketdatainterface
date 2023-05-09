@@ -121,6 +121,8 @@ http://www.dce.com.cn/dalianshangpin/yw/fw/ywzy/jsfwzy/index.html
 * The Nasdaq Stock Market (Nasdaq)[https://www.nasdaqtrader.com/Trader.aspx?id=TradingUSEquities]
 * Nasdaq 市场接口规范[https://www.nasdaqtrader.com/Trader.aspx?id=DPSpecs]
   纳斯达克市场行情数据协议支持SoupBinTcp， CompressedSoupBinTcp, MoldUdp三种协议
+  
+* 纳斯达克行情产品及支持的分发协议 [https://nasdaqtrader.com/Trader.aspx?id=DPSpecs_USEquities#qbasic]
 
 * [德意志交易所 T7]https://www.xetra.com/xetra-en/technology/t7
 
